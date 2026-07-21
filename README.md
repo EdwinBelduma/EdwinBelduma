@@ -18,10 +18,6 @@ Desarrollo aplicaciones web, APIs REST y sistemas de gestión utilizando Python,
   <a href="https://www.linkedin.com/in/edwin-leonel-153739182">
     <img src="https://img.shields.io/badge/LinkedIn-Edwin_Belduma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-
-  <a href="mailto:edwinbelduma.98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
 </p>
 
 ---
@@ -65,7 +61,7 @@ Desarrollo aplicaciones web, APIs REST y sistemas de gestión utilizando Python,
 
 ## 🚀 Proyectos destacados
 
-### ⛏️ ECUAMINERALES
+### ⛏️ ECUMINERALES
 
 Sistema web para la gestión de operaciones mineras, inventario, órdenes de tiro, despacho, auditoría y control de usuarios.
 
