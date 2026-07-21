@@ -1,8 +1,14 @@
-<h1 align="center">Hola, soy Edwin Belduma 👋</h1>
+<div align="center">
 
-<h3 align="center">
-Ingeniero de Software | Backend & Full-Stack Developer
-</h3>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=900&color=F75C7E&center=true&vCenter=true&width=900&height=100&lines=%C2%A1Bienvenido+a+mi+perfil!+%F0%9F%91%8B;Hola%2C+soy+Edwin+Belduma;Ingeniero+de+Software;Backend+%26+Full-Stack+Developer"
+    alt="Texto animado de presentación"
+  />
+</a>
+
+
+</div>
 
 <p align="center">
 Desarrollo aplicaciones web, APIs REST y sistemas de gestión utilizando Python, Django, Node.js y JavaScript.
@@ -19,18 +25,19 @@ Desarrollo aplicaciones web, APIs REST y sistemas de gestión utilizando Python,
 </p>
 
 ---
-
 ## 👨‍💻 Sobre mí
 
-- 🎓 Graduado como **Ingeniero de Software**.
-- 📍 Desarrollador de software de **Ecuador**.
-- 💻 Me enfoco en desarrollo **backend y full stack**.
-- 🔭 Actualmente trabajo en **ECUAMINERALES** y **JobTrack Pro**.
-- 🌱 Continúo fortaleciendo mis conocimientos en React, Vue.js, Docker y desarrollo de APIs.
-- 🚀 Disponible para oportunidades remotas y proyectos de desarrollo.
-- 🤝 Me interesa colaborar en aplicaciones web, automatización y sistemas de gestión.
+🎓 Soy un profesional con **dos títulos académicos en el área tecnológica**: **Tecnólogo en Desarrollo de Software** por el Instituto Superior Tecnológico Dr. José Ochoa León e **Ingeniero de Software** por la Universidad Estatal de Bolívar.
 
----
+💻 Mi formación y experiencia están orientadas al desarrollo de aplicaciones web, principalmente en las áreas **backend y full stack**, utilizando tecnologías como Python, Django, Node.js, Express, JavaScript, APIs REST y bases de datos SQL y NoSQL.
+
+🚀 Actualmente desarrollo **ECUMINERALES**, un sistema web para la administración de operaciones mineras. La plataforma permite gestionar inventarios, controlar existencias y productos peligrosos, crear órdenes de tiro, registrar despachos, administrar usuarios por roles y mantener procesos de auditoría y notificaciones.
+
+📋 También estoy desarrollando **JobTrack Pro**, una aplicación full stack diseñada para organizar y controlar la búsqueda de empleo. El sistema permitirá registrar empresas, vacantes y postulaciones, programar entrevistas y realizar seguimiento al estado de cada proceso de selección.
+
+🌱 Continúo fortaleciendo mis conocimientos en React, Vue.js, MongoDB, PostgreSQL, Docker y desarrollo de APIs REST, aplicándolos en proyectos orientados a resolver necesidades reales.
+
+🚀 Me encuentro disponible para oportunidades como **Desarrollador Backend, Full Stack o Desarrollador de Software Junior**, donde pueda aportar mis conocimientos, continuar aprendiendo y crecer profesionalmente.
 
 ## 🛠️ Tecnologías
 
