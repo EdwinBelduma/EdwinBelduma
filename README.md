@@ -4,7 +4,7 @@
 
 <!-- Logotipo personal EB -->
 <img
-  src="assets/logo-eb.png"
+  src="logo-eb.png"
   alt="Logotipo EB - Edwin Belduma"
   width="220"
 />
