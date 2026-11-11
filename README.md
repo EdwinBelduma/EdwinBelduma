@@ -1,6 +1,18 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
+
+<!-- Logotipo personal EB -->
+<img
+  src="assets/logo-eb.png"
+  alt="Logotipo EB - Edwin Belduma"
+  width="220"
+/>
+
+<br>
+
+
+  
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=900&color=F75C7E&center=true&vCenter=true&width=900&height=100&lines=%C2%A1Bienvenido+a+mi+perfil!+%F0%9F%91%8B;Hola%2C+soy+Edwin+Belduma;Ingeniero+de+Software;Full+Stack+Developer;Backend+Developer"
     alt="Texto animado de presentación"
